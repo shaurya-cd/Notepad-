@@ -1,0 +1,15 @@
+{
+  "name": "practise-2",
+  "version": "1.0.0",
+  "description": "practise of node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SHAURYA SINGH",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
